@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684667731754",
+    "project_id": "e-appointment-app-921ee",
+    "storage_bucket": "e-appointment-app-921ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684667731754:android:eab13deb1253f146dd2853",
+        "android_client_info": {
+          "package_name": "com.example.e_appointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvu8XBatzPrnQUT_A0NtDBAZ-eDB4wAa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
